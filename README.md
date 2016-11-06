@@ -1,2 +1,2 @@
 # anhadarora.com
-my personal website
+repo for my personal website
